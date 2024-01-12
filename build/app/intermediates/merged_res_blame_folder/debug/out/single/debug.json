@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/drawable_launch_background.xml.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.perondini.hortifruitperon.app-merged_res-29:/drawable-v21_launch_background.xml.flat",
+        "source": "br.com.perondini.hortifruitperon.app-main-23:/drawable-v21/launch_background.xml"
+    }
+]

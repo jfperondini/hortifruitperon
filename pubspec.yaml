@@ -1,0 +1,43 @@
+name: hortifruitperon
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  firebase_auth: ^4.14.0
+  firebase_core: ^2.22.0
+  flutter_modular: ^6.3.2
+  cloud_firestore: ^4.13.1
+  mask_text_input_formatter: ^2.5.0
+  intl: ^0.18.1
+  image_picker: ^1.0.4    
+  flutter_slidable: ^3.0.1 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/mastercard.png
+    - assets/images/visa.png
+    - assets/images/american_express.png
+    - assets/images/logo.jpg
+    - assets/images/ingredients.png
+    
+    
+
+    
